@@ -113,3 +113,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+  #  [ok] Am scris 3 înregistrări în: data/work/RaresCalotescu/lab01/my_tp53.fa
+#NG_017013.2     GC=0.490
+#NC_060941.1     GC=0.453
+#NC_000017.11    GC=0.453
+
+
+#[ok] Am scris 1 înregistrări în: data/work/RaresCalotescu/lab01/nm000546.fa
+#NM_000546.6     GC=0.534
