@@ -1,0 +1,13 @@
+Source,Target,Interaction Type
+Drug_A,Protein_P53,drug-target
+Drug_B,Protein_P53,drug-target
+Drug_C,Protein_MDM2,drug-target
+Protein_P53,Gene_TP53,protein-gene
+Protein_MDM2,Gene_MDM2,protein-gene
+Gene_TP53,Disease_LiFraumeni,gene-disease
+Gene_TP53,Disease_BreastCancer,gene-disease
+Gene_MDM2,Disease_Sarcoma,gene-disease
+Protein_P53,Protein_MDM2,protein-protein
+Drug_D,Protein_EGFR,drug-target
+Protein_EGFR,Gene_EGFR,protein-gene
+Gene_EGFR,Disease_LungCancer,gene-disease
